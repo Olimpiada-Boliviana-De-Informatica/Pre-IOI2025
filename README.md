@@ -29,3 +29,12 @@ Encargados del proceso de seleccion:
 [Codeforces Round #686 (Div. 3)](https://codeforces.com/contest/1454/)
 
 *Se recomienda resolver los 6 problemas, ya sea durante la simulación o después de esta.*
+### Semana del 15 al 23 de Octubre
+***Problemas Obligatorios:*** 
+ - [Horoscope Matrix](https://www.codechef.com/LTIME91B/problems/HRSCPMTR)
+ - [Justice Served](https://codeforces.com/gym/104875/attachments)
+ - [Zero-One (Hard Version)](https://codeforces.com/contest/1733/problem/D2)
+ - 
+***Ronda de CF a simular:*** <br>
+[Codeforces Round 565 (Div. 3)](https://codeforces.com/contest/1176)
+
