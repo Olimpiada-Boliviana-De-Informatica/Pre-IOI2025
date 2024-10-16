@@ -16,6 +16,9 @@ Encargados del proceso de seleccion:
 |Fabricio Cabrera Gordillo|chubyxd1627@gmail.com||
 |Rodolfo Catunta Uturunco|rodolfo.catunta.uturunco@gmail.com|[@lordofmont](https://t.me/lordofmont)|
 |Shamir Teran Mustafa|shamirteranmustafa@gmail.com|[@shezitt](https://t.me/shezitt)|
+
+Cronograma de problemas y CFs para entrenadores: [LINK](https://docs.google.com/spreadsheets/d/1uRgo3StNSvwGcxwwd8mc0H9qdgSPE1RHVJkWXMMy9HE/edit?usp=sharing)
+
 </details>
 
 ## OCTUBRE
@@ -25,16 +28,28 @@ Encargados del proceso de seleccion:
  - [Mike and Feet](https://codeforces.com/contest/547/problem/B)
  - [Marbles](https://www.spoj.com/problems/MARBLES/)
 
+***Primera semana***: Minimo uno<br>
+***Semana Up-Solve***: Todos
+
 ***Ronda de CF a simular:*** <br>
 [Codeforces Round #686 (Div. 3)](https://codeforces.com/contest/1454/)
 
-*Se recomienda resolver los 6 problemas, ya sea durante la simulación o después de esta.*
+***Semana Up-solve***: Un problema extra, aparte de los resueltos durante la simulación.
+
+***Demostracion matematica:*** [LINK](math_tasks/problem_08_10_24.pdf)
+
+_Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
+
 ### Semana del 15 al 23 de Octubre
 ***Problemas Obligatorios:*** 
  - [Horoscope Matrix](https://www.codechef.com/LTIME91B/problems/HRSCPMTR)
  - [Justice Served](https://codeforces.com/gym/104875/attachments)
  - [Zero-One (Hard Version)](https://codeforces.com/contest/1733/problem/D2)
- - 
+
+***Primera semana***: ???<br>
+***Semana Up-Solve***: ???
+
 ***Ronda de CF a simular:*** <br>
 [Codeforces Round 565 (Div. 3)](https://codeforces.com/contest/1176)
 
+***Semana Up-solve***: ???
