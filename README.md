@@ -21,6 +21,19 @@ Cronograma de problemas y CFs para entrenadores: [LINK](https://docs.google.com/
 
 </details>
 
+<details>
+<summary> <b>Repositorios de los participantes</b> </summary>
+
+|Nombre|
+|------|
+|[Agustin](https://github.com/aguss-afk/GAY-DE-ALALAY)|
+|[Lin Ming](https://github.com/Lincito-31/Preseleccion)|
+|[Gabriel](https://github.com/Gabriel765324/Carpeta)|
+|[Matias](https://github.com/Matbubble/Heaven-Knows-Im-Miserable-Now)|
+|[Santiago](https://github.com/santi3223/PreseleccionIOI)|
+|[Jesus](https://github.com/ozner77/ozner)|
+</details>
+
 ## OCTUBRE
 ### Semana del 7 al 13 de Octubre
 ***Problemas Obligatorios:*** 
