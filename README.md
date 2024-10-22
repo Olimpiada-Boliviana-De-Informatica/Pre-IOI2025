@@ -66,3 +66,17 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 [Codeforces Round 565 (Div. 3)](https://codeforces.com/contest/1176)
 
 ***Semana Up-solve***: ???
+
+### Semana del 23 al 30 de Octubre
+***Problemas Obligatorios:*** 
+ - [IOI10 - Traffic](https://oj.uz/problem/view/IOI10_traffic)
+ - [IOI12 - Rings](https://oj.uz/problem/view/IOI12_rings)
+ - [Vacations](https://codeforces.com/contest/699/problem/C)
+
+***Primera semana***: 50 puntos en traffic, para los otros 2 hacer submissions que resuelvan el problema aunque de 0 puntos/WA/TLE<br>
+***Semana Up-Solve***: 100 puntos en traffic, ?? puntos en Rings, resolver Vacations.
+
+***Ronda de CF a simular:*** <br>
+?????
+
+***Semana Up-solve***: ???
