@@ -34,6 +34,14 @@ Cronograma de problemas y CFs para entrenadores: [LINK](https://docs.google.com/
 |[Jesus](https://github.com/ozner77/ozner)|
 </details>
 
+Toda semana tiene 2 etapas, la etapa principal que es durante la duracion de la semana.<br>
+Y la semana de Up-solve, que es la semana siguiente a la principal, en la semana de Up-solve se resuelven los problemas que no se pudieron resolver en la semana principal, algunos teniendo carácter obligatorio.<br>
+Si la semana principal acaba el dia $N$ a las 23:59, la semana de Up-solve empieza el dia $N+1$ a las 00:00 y acaba el dia $N+7$ a las 23:59.
+
+Es decir, para la primera semana, la semana principal es del 7 al 13 de Octubre, y la semana de Up-solve es del 14 al 20 de Octubre.
+
+En caso de extender los plazos para la semana principal, la semana de Up-solve se extenderá de igual manera.
+
 ## OCTUBRE
 ### Semana del 7 al 13 de Octubre
 ***Problemas Obligatorios:*** 
