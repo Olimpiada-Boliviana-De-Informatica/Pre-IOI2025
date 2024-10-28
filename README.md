@@ -85,6 +85,6 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 ***Semana Up-Solve***: 100 puntos en traffic, ?? puntos en Rings, resolver Vacations.
 
 ***Ronda de CF a simular:*** <br>
-?????
+[Codeforces Round 603 (Div. 2)](https://codeforces.com/contest/1263)
 
-***Semana Up-solve***: ???
+***Semana Up-solve***: Un problema extra, aparte de los resueltos durante la simulación.
