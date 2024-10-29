@@ -75,7 +75,7 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 
 ***Semana Up-solve***: ???
 
-### Semana del 23 al 30 de Octubre
+### Semana del 23 al 31 de Octubre
 ***Problemas Obligatorios:*** 
  - [IOI10 - Traffic](https://oj.uz/problem/view/IOI10_traffic)
  - [IOI12 - Rings](https://oj.uz/problem/view/IOI12_rings)
