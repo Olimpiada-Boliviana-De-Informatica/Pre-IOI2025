@@ -89,11 +89,13 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 
 ***Semana Up-solve***: Un problema extra, aparte de los resueltos durante la simulación.
 
+## NOVIEMBRE
+
 ### Semana del 31 de octubre al 7 de noviembre
 ***Problemas Obligatorios:*** 
  - [Triangles](https://codeforces.com/gym/105187/problem/C)
  - [IOI11 - Ricehub](https://oj.uz/problem/view/IOI11_ricehub)
  - [JOI18 - Stove](https://oj.uz/problem/view/JOI18_stove)
 
-***Primera semana***: 68 puntos en Ricehub, 50 en Stove, 25 en Triangles
+***Primera semana***: 68 puntos en Ricehub, 50 en Stove, 25 en Triangles <br>
 ***Semana Up-Solve***: 100 en Ricehub, 100 en Stove ?? en Triangles
