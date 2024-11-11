@@ -99,3 +99,8 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 
 ***Primera semana***: 68 puntos en Ricehub, 50 en Stove, 25 en Triangles <br>
 ***Semana Up-Solve***: 100 en Ricehub, 100 en Stove ?? en Triangles
+
+### Semana del 7 de noviembre al 14 de noviembre
+***Problemas Obligatorios:*** 
+ - [HALLOW]([https://codeforces.com/gym/105187/problem/C](https://www.spoj.com/problems/HALLOW/))
+ 
