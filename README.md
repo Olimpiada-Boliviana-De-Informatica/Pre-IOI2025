@@ -102,5 +102,5 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 
 ### Semana del 7 de noviembre al 14 de noviembre
 ***Problemas Obligatorios:*** 
- - [HALLOW]([https://codeforces.com/gym/105187/problem/C](https://www.spoj.com/problems/HALLOW/))
+ - [HALLOW](https://www.spoj.com/problems/HALLOW/)
  
