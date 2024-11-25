@@ -100,5 +100,12 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 ***Primera semana***: 68 puntos en Ricehub, 50 en Stove, 25 en Triangles <br>
 ***Semana Up-Solve***: 100 en Ricehub, 100 en Stove ?? en Triangles
 
+### Semana del 25 de noviembre al 2 de diciembre
+***Problemas Obligatorios:*** 
+ - [HALLOW](https://www.spoj.com/problems/HALLOW/)
+ - [Graph Girth](https://cses.fi/problemset/task/1707/)
+ - [Investigation](https://cses.fi/problemset/task/1202)
 
+***Primera semana***: Mínimo dos problemas. <br>
+***Semana Up-Solve***: Todo.
  
