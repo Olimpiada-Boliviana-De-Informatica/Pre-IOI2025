@@ -106,6 +106,8 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
  - [Graph Girth](https://cses.fi/problemset/task/1707/)
  - [Investigation](https://cses.fi/problemset/task/1202)
 
+## DICIEMBRE
+
 ### Semana del 10 de diciembre al 17 de diciembre
 - [Company Queries II](https://cses.fi/problemset/task/1688)
 - [Distance Queries](https://cses.fi/problemset/task/1135)
