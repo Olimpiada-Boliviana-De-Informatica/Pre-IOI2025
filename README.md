@@ -118,4 +118,11 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 
 ***Primera semana***: Mínimo dos problemas. <br>
 ***Semana Up-Solve***: Todo.
- 
+
+### Semana del 17 de diciembre al 24 de diciembre
+- [Mutating DNA](https://oj.uz/problem/view/IOI21_dna)
+- [Bicycles](https://codeforces.com/contest/1915/problem/G)
+- [Tanya and Password](https://codeforces.com/contest/508/problem/D)
+
+***Primera semana***: Mínimo un problema de los últimos dos y al menos 21 puntos en Mutating DNA. <br>
+***Semana Up-Solve***: Todo.
