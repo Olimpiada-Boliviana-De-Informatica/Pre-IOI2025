@@ -126,3 +126,11 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 
 ***Primera semana***: Mínimo un problema de los últimos dos y al menos 21 puntos en Mutating DNA. <br>
 ***Semana Up-Solve***: Todo.
+
+### Semana del 29 de diciembre al 5 de enero
+- https://vjudge.net/contest/682652
+- pass: siono
+  
+***Primera semana***: Mínimo dos problemas. <br>
+***Semana Up-Solve***: Todo.
+
