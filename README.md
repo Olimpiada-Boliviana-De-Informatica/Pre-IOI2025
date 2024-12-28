@@ -131,6 +131,7 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 - [Lin, el pintor](https://vjudge.net/contest/682652#problem/A)
 - [La tarea del Agus](https://vjudge.net/contest/682652#problem/B)
 - [Peluches](https://vjudge.net/contest/682652#problem/C)
+
 **Contraseña del contest**: siono
   
 ***Primera semana***: Mínimo dos problemas. <br>
