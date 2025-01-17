@@ -137,3 +137,15 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 ***Primera semana***: Mínimo dos problemas. <br>
 ***Semana Up-Solve***: Todo.
 
+### Semana del 16 de enero al 23 de enero
+
+- [IOI 2011 - Crocodile's Underground City](https://oj.uz/problem/view/IOI11_crocodile)
+- [POI 2013 - Triumphal Arch](https://oj.uz/problem/view/POI13_luk)
+- [Codeforces - Zuma](https://codeforces.com/contest/607/problem/B)
+
+***Ronda de CF a simular:*** <br>
+[Codeforces Round 630 (Div. 2)](https://codeforces.com/contest/1332)
+
+#### Demostraciones:
+- Demostrar que el conjunto de los números primos es infinito.
+- Si es posible, encuentra $a,b,c$ enteros positivos tales que $a^2 + b^2 = 4c + 3$.
