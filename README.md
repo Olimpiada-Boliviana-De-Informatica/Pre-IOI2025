@@ -143,6 +143,11 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
 - [POI 2013 - Triumphal Arch](https://oj.uz/problem/view/POI13_luk)
 - [Codeforces - Zuma](https://codeforces.com/contest/607/problem/B)
 
+***Primera semana***:<br>
+Matias y Agus: Resolver todo.<br>
+Los demas: Resolver uno entre Zuma y Triumphal Arch, y resolver Crocodile's Underground City con mas de 45 puntos.<br>
+***Semana up-solve***: Todo.
+
 ***Ronda de CF a simular:*** <br>
 [Codeforces Round 630 (Div. 2)](https://codeforces.com/contest/1332)
 
