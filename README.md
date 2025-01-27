@@ -160,6 +160,6 @@ Los demas: Resolver uno entre Zuma y Triumphal Arch, y resolver Crocodile's Unde
 - [USACO 2018 Gold - Talent Show](https://usaco.org/index.php?page=viewproblem2&cpid=839)
 - [USACO 2022 Gold - Pair Programming](https://usaco.org/index.php?page=viewproblem2&cpid=1234)
 
-### Project Euler:
+#### Project Euler:
 - [Project Euler - Recursive Sequence Summation](https://projecteuler.net/problem=918)
 - [Project Euler - Matchsticks](https://projecteuler.net/problem=893)
