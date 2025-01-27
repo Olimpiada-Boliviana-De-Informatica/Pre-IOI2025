@@ -154,3 +154,12 @@ Los demas: Resolver uno entre Zuma y Triumphal Arch, y resolver Crocodile's Unde
 #### Demostraciones:
 - Demostrar que el conjunto de los números primos es infinito.
 - Si es posible, encuentra $a,b,c$ enteros positivos tales que $a^2 + b^2 = 4c + 3$.
+
+### Semana del 27 de enero al 3 de febrero
+- [IOI 2014 - Holiday](https://oj.uz/problem/view/IOI14_holiday)
+- [USACO 2018 Gold - Talent Show](https://usaco.org/index.php?page=viewproblem2&cpid=839)
+- [USACO 2022 Gold - Pair Programming](https://usaco.org/index.php?page=viewproblem2&cpid=1234)
+
+### Project Euler:
+- [Project Euler - Recursive Sequence Summation](https://projecteuler.net/problem=918)
+- [Project Euler - Matchsticks](https://projecteuler.net/problem=893)
