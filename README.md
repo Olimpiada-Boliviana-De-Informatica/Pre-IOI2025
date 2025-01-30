@@ -171,3 +171,7 @@ Los demas: Resolver uno entre Zuma y Triumphal Arch, y resolver Crocodile's Unde
 #### Project Euler:
 - [Project Euler - Recursive Sequence Summation](https://projecteuler.net/problem=918)
 - [Project Euler - Matchsticks](https://projecteuler.net/problem=893)
+
+Para la semana 1 de estos problemas, sacar 7 puntos en Holiday,  resolver talent show aunque con ayuda, Intentar pair programming, resolver ambos de project euler.
+
+***Prohibido ver editoriales esta semana***
