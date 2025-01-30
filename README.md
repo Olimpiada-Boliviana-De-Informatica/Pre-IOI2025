@@ -3,11 +3,13 @@
 ## Descripción
 En este repositorio se encuentran los recursos necesarios para los estudiantes que son parte del ***Grupo 1*** de la preselección Boliviana para la ***Olimpiada Internacional de Informática 2025***.
 
-<details>
-<summary> <b>Informacion importante:</b> </summary>
-
 Acuerdo al que los participantes han accedido al ser parte de este grupo:
 [Acuerdo de participación](acuerdo_seleccion.pdf)
+
+Control de faltas: [LINK](https://docs.google.com/spreadsheets/d/1tsXJCeONmFjqk2_BlYV3drhrstv0KH1NlLjkyPN3OrI/edit?usp=sharing) 
+
+<details>
+<summary> <b>Informacion importante:</b> </summary>
 
 Encargados del proceso de seleccion:
 |Nombre|Correo|Telegram|
@@ -33,6 +35,7 @@ Cronograma de problemas y CFs para entrenadores: [LINK](https://docs.google.com/
 |[Santiago](https://github.com/santi3223/PreseleccionIOI)|
 |[Jesus](https://github.com/ozner77/ozner)|
 </details>
+<br>
 
 Toda semana tiene 2 etapas, la etapa principal que es durante la duracion de la semana.<br>
 Y la semana de Up-solve, que es la semana siguiente a la principal, en la semana de Up-solve se resuelven los problemas que no se pudieron resolver en la semana principal, algunos teniendo carácter obligatorio.<br>
@@ -41,6 +44,9 @@ Si la semana principal acaba el dia $N$ a las 23:59, la semana de Up-solve empie
 Es decir, para la primera semana, la semana principal es del 7 al 13 de Octubre, y la semana de Up-solve es del 14 al 20 de Octubre.
 
 En caso de extender los plazos para la semana principal, la semana de Up-solve se extenderá de igual manera.
+
+<details>
+<summary> <b>Semanas pasadas</b> </summary>
 
 ## OCTUBRE
 ### Semana del 7 al 13 de Octubre
@@ -136,6 +142,8 @@ _Subir hasta el 16 de octubre. Resolver al menos 6 de los 10 incisos._
   
 ***Primera semana***: Mínimo dos problemas. <br>
 ***Semana Up-Solve***: Todo.
+
+</details>
 
 ### Semana del 16 de enero al 23 de enero
 
