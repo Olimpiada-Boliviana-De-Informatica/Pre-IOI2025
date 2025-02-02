@@ -34,6 +34,7 @@ Cronograma de problemas y CFs para entrenadores: [LINK](https://docs.google.com/
 |[Matias](https://github.com/Matbubble/Heaven-Knows-Im-Miserable-Now)|
 |[Santiago](https://github.com/santi3223/PreseleccionIOI)|
 |[Jesus](https://github.com/ozner77/ozner)|
+|[Adri](https://github.com/adriines/IOI2025)|
 </details>
 <br>
 
@@ -172,6 +173,11 @@ Los demas: Resolver uno entre Zuma y Triumphal Arch, y resolver Crocodile's Unde
 - [Project Euler - Recursive Sequence Summation](https://projecteuler.net/problem=918)
 - [Project Euler - Matchsticks](https://projecteuler.net/problem=893)
 
-Para la semana 1 de estos problemas, sacar 7 puntos en Holiday,  resolver talent show aunque con ayuda, Intentar pair programming, resolver ambos de project euler.
+***Primera semana***:<br>
+Sacar 7 puntos en Holiday,  resolver talent show aunque con ayuda, Intentar pair programming, resolver ambos de project euler.
+***Prohibido ver editoriales esta semana***<br>
+***Semana up-solve***: <br>
+47 en Holiday, AC en pair programming, vale editoriales/ver soluciones, etc...
 
-***Prohibido ver editoriales esta semana***
+### Semana del 4 de febrero al 10 de febrero
+???
