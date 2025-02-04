@@ -185,6 +185,7 @@ https://vjudge.net/contest/690543
 #### Matematicas:
 - Demostrar que \sqrt{2}, \sqrt{5}, \sqrt{7} no pueden estar presentes en una misma progresión geométrica.
 - Encuentra la suma de los digitos de 111111111^2
+- Encuentra la suma de los digitos de 1111...11^2, donde hay $N$ unos. (Resuelve para todo $N$ natural).
 
 ***Primera semana***:<br>
 Resolver 7 de los 10 problemas.<br>
