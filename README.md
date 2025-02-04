@@ -180,4 +180,16 @@ Sacar 7 puntos en Holiday,  resolver talent show aunque con ayuda, Intentar pair
 47 en Holiday, AC en pair programming, vale editoriales/ver soluciones, etc...
 
 ### Semana del 4 de febrero al 10 de febrero
-???
+https://vjudge.net/contest/690543
+
+#### Matematicas:
+- Demostrar que \sqrt{2}, \sqrt{5}, \sqrt{7} no pueden estar presentes en una misma progresión geométrica.
+- Encuentra la suma de los digitos de 111111111^2
+
+***Primera semana***:<br>
+Resolver 7 de los 10 problemas.<br>
+Resolver ambos problemas de matematicas.<br>
+
+***Semana up-solve***: <br>
+Resolver todo.
+
