@@ -189,7 +189,7 @@ https://vjudge.net/contest/690543
 
 ***Primera semana***:<br>
 Resolver 7 de los 10 problemas.<br>
-Resolver ambos problemas de matematicas.<br>
+Resolver los tres problemas de matematicas.<br>
 
 ***Semana up-solve***: <br>
 Resolver todo.
