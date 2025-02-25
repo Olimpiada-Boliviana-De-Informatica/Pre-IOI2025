@@ -203,9 +203,9 @@ https://vjudge.net/contest/696625
 
 #### Investigacion
 Escribir un ensayo de 1 pagina sobre la historia en la OBI/OII/IOI de ....
-- Matias y Nicolas: Mauricio Wilde Monasterios
-- Agustin, Santiago y Gabriel: Danilo Enriquez Corrales
-- Lin Ming y Adriana: Marcelo Zeballos Guzman
+- Matias y Gabriel: Mauricio Wilde Monasterios
+- Agustin, Lin Ming y Nicolas: Danilo Enriquez Corrales
+- Santiago y Adriana: Marcelo Zeballos Guzman
 
 ***Primera semana***:<br>
 Sacar puntaje en todos.<br>
