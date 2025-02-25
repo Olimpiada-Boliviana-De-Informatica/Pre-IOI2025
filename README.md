@@ -198,8 +198,8 @@ Resolver todo.
 https://vjudge.net/contest/696625
 
 #### Matematicas:
-https://projecteuler.net/problem=301
-https://projecteuler.net/problem=357
+- https://projecteuler.net/problem=301
+- https://projecteuler.net/problem=357
 
 #### Investigacion
 Escribir un ensayo de 1 pagina sobre la historia en la OBI/OII/IOI de ....
