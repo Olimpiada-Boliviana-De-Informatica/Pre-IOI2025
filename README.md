@@ -194,3 +194,15 @@ Resolver los tres problemas de matematicas.<br>
 ***Semana up-solve***: <br>
 Resolver todo.
 
+### Semanas del 25 de febrero al 8 de marzo (Mas tiempo por carnavales)
+https://vjudge.net/contest/696625
+
+#### Matematicas:
+https://projecteuler.net/problem=301
+https://projecteuler.net/problem=357
+
+#### Investigacion
+Escribir un ensayo de 1 pagina sobre la historia en la OBI/OII/IOI de ....
+Matias y Nicolas: Mauricio Wilde Monasterios
+Agustin, Santiago y Gabriel: Danilo Enriquez Corrales
+Lin Ming y Adriana: Marcelo Zeballos Guzman
