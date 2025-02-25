@@ -206,3 +206,8 @@ Escribir un ensayo de 1 pagina sobre la historia en la OBI/OII/IOI de ....
 - Matias y Nicolas: Mauricio Wilde Monasterios
 - Agustin, Santiago y Gabriel: Danilo Enriquez Corrales
 - Lin Ming y Adriana: Marcelo Zeballos Guzman
+
+***Primera semana***:<br>
+Sacar puntaje en todos.<br>
+Resolver uno de los dos de project euler.<br>
+Acabar el ensayo.
